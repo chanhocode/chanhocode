@@ -19,6 +19,6 @@
 </div>
 <div align=center>
   <a href="https://github.com/SPOT-FrontTEAM">
-   <img src="https://user-images.githubusercontent.com/105937460/185798703-d28456b4-6fab-4d1c-977e-4a84e0da74b6.png" width="20%"/>  
+   <img src="https://user-images.githubusercontent.com/105937460/185798703-d28456b4-6fab-4d1c-977e-4a84e0da74b6.png" width="30%"/>  
   </a>
 </div>
