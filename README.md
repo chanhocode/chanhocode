@@ -42,22 +42,24 @@
 
 <div align=center>
   <h1>🤜 Team. Project 🤛</h1>
-  <p>move on click</p>  
 </div>
 
+<a href="https://github.com/SPOT-TEAM-PJ">
+  👉 move on click: SPOT
+</a>
 <table>
   <tr>
-    <a href="https://github.com/SPOT-TEAM-PJ">
     <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/90a452cb-8997-4eea-b4ac-0ba35117dcd9"/></td>
-    </a>
     <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/469e0d87-651c-407e-baad-d3dd4fc056e3"/></td>
   </tr>
 </table>
+
+<a href="https://github.com/PJ-TEAM-Vitamin">
+  👉 move on click: Vitamin
+</a>
 <table>
   <tr>
-    <a href="https://github.com/PJ-TEAM-Vitamin">
     <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/9db4c790-dfc3-483f-9efc-4365184224c8"/></td>
-    </a>
     <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/e221617c-cb4f-4aaf-9c52-d47575e5e7b3"/></td>
   </tr>
 </table>
