@@ -1,8 +1,11 @@
-![header](https://user-images.githubusercontent.com/105937460/185798668-e302c5fc-43f0-431d-8f9f-7cb60d044ba5.png)
+![header 복사](https://github.com/chanhocode/chanhocode/assets/105937460/c8089c3f-d96c-4cbf-8dd4-7d07862d4854)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhocode&show_icons=true&theme=tokyonight)
+<div align=center>
+<p>👋 안녕하세요. '개발자 지망생' 조찬호 입니다.</p>
+<p>주니어 개발자로서 성장하기 위해 여러 개발 분야를 경험하고 배우고자 합니다.</p>
+<p>현재는 웹 분야 중심으로 학습을 진행하고 있지만, 모바일 및 데스크탑에도 관심을 가지고 있습니다.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhocode&layout=compact&theme=dracula)
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
@@ -27,12 +30,34 @@
 
 </div>
 
+<p>
+</p>
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=chanhocode&show_icons=true&theme=tokyonight"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhocode&layout=compact&theme=dracula"/></td>
+  </tr>
+</table>
+
 <div align=center>
-  <h1>🤜 Organizations 🤛</h1>
+  <h1>🤜 Team. Project 🤛</h1>
   <p>move on click</p>  
 </div>
-<div align=center>
-  <a href="https://github.com/SPOT-FrontTEAM">
-   <img src="https://user-images.githubusercontent.com/105937460/185798703-d28456b4-6fab-4d1c-977e-4a84e0da74b6.png" width="30%"/>  
-  </a>
-</div>
+
+<table>
+  <tr>
+    <a href="https://github.com/SPOT-TEAM-PJ">
+    <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/90a452cb-8997-4eea-b4ac-0ba35117dcd9"/></td>
+    </a>
+    <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/469e0d87-651c-407e-baad-d3dd4fc056e3"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <a href="https://github.com/PJ-TEAM-Vitamin">
+    <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/9db4c790-dfc3-483f-9efc-4365184224c8"/></td>
+    </a>
+    <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/e221617c-cb4f-4aaf-9c52-d47575e5e7b3"/></td>
+  </tr>
+</table>
