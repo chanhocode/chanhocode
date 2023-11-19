@@ -1,4 +1,4 @@
-![header 복사](https://github.com/chanhocode/chanhocode/assets/105937460/c8089c3f-d96c-4cbf-8dd4-7d07862d4854)
+![header 복사](https://github.com/chanhocode/chanhocode/assets/105937460/0a9d10cb-6309-41c4-9bf5-237078914f37)
 
 <div align=center>
 <p>👋 안녕하세요. '개발자 지망생' 조찬호 입니다.</p>
