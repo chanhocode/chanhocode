@@ -1,9 +1,9 @@
-![header 복사](https://github.com/chanhocode/chanhocode/assets/105937460/0a9d10cb-6309-41c4-9bf5-237078914f37)
+![header240208](https://github.com/chanhocode/chanhocode/assets/105937460/88de4e5c-27eb-4548-b6c1-eeefdf2aa569)
 
 <div align=center>
-<p>👋 안녕하세요. '개발자 지망생' 조찬호 입니다.</p>
-<p>주니어 개발자로서 성장하기 위해 여러 개발 분야를 경험하고 배우고자 합니다.</p>
-<p>현재는 웹 분야 중심으로 학습을 진행하고 있지만, 모바일 및 데스크탑에도 관심을 가지고 있습니다.</p>
+<p>👋 안녕하세요 조 찬호 입니다.</p>
+<p>주니어 개발자로서, 지식을 공유하고 협력하는 것을 기대하고 있습니다.<br>
+해당 깃허브의 프로젝트를 살펴보시고, 피드백이나 아이디어를 자유롭게 공유해 주세요.<br> 또한 사이드프로젝트를 통해 함께 성장하고 발전할 수 있는 기회가 생기면 좋을 거 같습니다.<br> 저의 메일은 항상 열려 있습니다. 😄</p>
 
 </div>
 
@@ -44,22 +44,22 @@
   <h1>🤜 Team. Project 🤛</h1>
 </div>
 
-<a href="https://github.com/SPOT-TEAM-PJ">
-  👉 move on click: SPOT
-</a>
-<table>
-  <tr>
-    <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/90a452cb-8997-4eea-b4ac-0ba35117dcd9"/></td>
-    <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/469e0d87-651c-407e-baad-d3dd4fc056e3"/></td>
-  </tr>
-</table>
+---
 
-<a href="https://github.com/PJ-TEAM-Vitamin">
-  👉 move on click: Vitamin
+#### ~ university graduation
+
+![spot240208](https://github.com/chanhocode/chanhocode/assets/105937460/cc6c113b-89a6-4487-bf3e-d24b076ae36a)
+<a href="https://github.com/SPOT-TEAM-PJ">
+👉 move on click: SPOT
 </a>
-<table>
-  <tr>
-    <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/9db4c790-dfc3-483f-9efc-4365184224c8"/></td>
-    <td valign="top"><img src="https://github.com/chanhocode/chanhocode/assets/105937460/e221617c-cb4f-4aaf-9c52-d47575e5e7b3"/></td>
-  </tr>
-</table>
+2022.09 ~ 2022.12
+
+<small>간단 개요: 아동 돌봄 관련자 및 이해관계자 중 맞벌이 부부가 주 고객으로써 육아 중 통학에 대한 부담감을 해소 시켜주기 위한 웹 앱 서비스 입니다.</small>
+
+![vitamin240208](https://github.com/chanhocode/chanhocode/assets/105937460/55684134-ba81-46d2-ba65-65c1e2367818)
+<a href="https://github.com/PJ-TEAM-Vitamin">
+👉 move on click: Vitamin
+</a>
+2023.07 ~ 2023.10
+
+<small>간단 개요: 바쁜 현대 사회에 영양제 혹은 체계적인 복용이 필요한 약물을 제때 챙겨 먹지 못하는 현대인들을 대상으로하며, 대상에게 있어 복용 시간을 직관적으로 명시 할 수 있고, 흥미를 유발할 수 있어, 건강 생활에 도움을 주는 역할을 수행한다.</small>
