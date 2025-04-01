@@ -4,12 +4,22 @@
 
 <img width="30%" alt="inspace_logo" src="https://github.com/user-attachments/assets/d6590f90-c131-48fe-a95a-1cebda87a88a" />
 
-- `🛰️ HANCOM InSpace (2024.04.01 ~ Working)`
-  - Large Language Model Technology Acquisition Task Force Team
-  - Key Responsibilities: Backend Development, LLM Model Training and Serving, Retrieval-Augmented Generation (RAG), and Workforce Management.
+## `🛰️ HANCOM InSpace (2024.04.01 ~ Present)`
+### LLM Technology Task Force → MultiInt Team (from Feb 2025)
+- Led initial PoC and R&D efforts on LLM training/serving, RAG integration, and backend development within the TF team
+- Based on successful outcomes, the team was promoted to an official division (MultiInt Team) in Feb 2025
+- Currently serving as the acting team leader
+
+### Key Responsibilities:
+- Training and deployment of LLMs, vision encoders, and text embedding models
+- Planning and development of LLM-powered services and backend systems
+- Research and application of Retrieval-Augmented Generation (RAG)
+- Designing and implementing LLM Agent systems
+- Building MLOps environments for scalable model operations
+- Team management and external technical communication
 
 💡 <b>Education & Certificate</b>
-- 순천향대학교 사물인터넷학과 학사 졸업
+- 순천향대학교 사물인터넷학과 (학사 졸업)
 - 정보처리기사
 
 <div align=center><h2>📚 STACKS</h2></div>
